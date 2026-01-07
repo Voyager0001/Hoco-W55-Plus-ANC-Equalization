@@ -1,16 +1,20 @@
-Device: HOCO W55 Plus ANC Stereo Headphones {7d13186c-09f2-4bae-9e73-a46898a99966}
-Channel: all
-Preamp: -12 dB
+Device: HOCO W55 Plus ANC Headphones {600ac042-b820-4b5c-bd08-75a02fae1cd3}
+Channel: L R
+Preamp: -14 dB
 Filter 1: ON PK Fc 8000 Hz Gain -3 dB Q 4
-Filter 2: ON LS Fc 35 Hz Gain 8 dB
-Filter 4: ON PK Fc 83 Hz Gain 2 dB Q 1.41
+Filter 2: ON LSC Fc 20 Hz Gain 8 dB Q 0.7
+Filter 4: ON PK Fc 83 Hz Gain 0 dB Q 1.41
 Filter 5: ON PK Fc 166 Hz Gain 2 dB Q 1.41
-Filter 6: ON PK Fc 333 Hz Gain -2 dB Q 2
-Filter 7: ON PK Fc 500 Hz Gain -4 dB Q 1.41
-Filter 8: ON PK Fc 1000 Hz Gain -2 dB Q 1.41
-Filter 9: ON PK Fc 2000 Hz Gain 8 dB Q 2
+Filter 6: ON PK Fc 333 Hz Gain 0 dB Q 2
+Filter 7: ON PK Fc 500 Hz Gain -6 dB Q 1.41
+Filter 8: ON PK Fc 1000 Hz Gain -4 dB Q 1.41
+Filter 9: ON PK Fc 2000 Hz Gain 6 dB Q 2
 Filter 10: ON PK Fc 4000 Hz Gain 8 dB Q 3
-Filter 11: ON PK Fc 5500 Hz Gain 8 dB Q 2
-Filter 12: ON HS Fc 13000 Hz Gain 8 dB
-Filter 13: ON PK Fc 3000 Hz Gain 3 dB Q 4
+Filter 11: ON PK Fc 5500 Hz Gain 2 dB Q 2
+Filter 12: ON HSC Fc 13000 Hz Gain 8 dB
+Filter 13: ON PK Fc 3000 Hz Gain 0 dB Q 3
 Filter 14: ON PK Fc 10000 Hz Gain 5 dB Q 4
+Filter 15: ON PK Fc 7000 Hz Gain -4 dB Q 4
+Filter 16: ON PK Fc 11500 Hz Gain -8 dB Q 4
+Filter 17: ON HSC Fc 14000 Hz Gain 6 dB Q 0.7
+Filter 18: ON PK Fc 50 Hz Gain -3 dB Q 1.41
