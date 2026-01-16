@@ -1,0 +1,152 @@
+[{
+	"name": "Hoco w55 plus ANC",
+	"preamp": -12.0,
+	"parametric": true,
+	"bands": [
+		{
+			"type": 0,
+			"channels": 0,
+			"frequency": 90,
+			"q": 0.800000011920929,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 1,
+			"channels": 0,
+			"frequency": 10000,
+			"q": 0.6000000238418579,
+			"gain": 8.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 83,
+			"q": 1.409999966621399,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 166,
+			"q": 1.409999966621399,
+			"gain": 2.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 333,
+			"q": 2.0,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 500,
+			"q": 1.409999966621399,
+			"gain": -6.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 1000,
+			"q": 1.409999966621399,
+			"gain": -4.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 2000,
+			"q": 2.0,
+			"gain": 6.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 4000,
+			"q": 3.0,
+			"gain": 8.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 5500,
+			"q": 2.0,
+			"gain": 2.0,
+			"color": 0
+		},
+		{
+			"type": 5,
+			"channels": 0,
+			"frequency": 13000,
+			"q": 1.0,
+			"gain": 8.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 3000,
+			"q": 3.0,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 10000,
+			"q": 4.0,
+			"gain": 5.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 7000,
+			"q": 4.0,
+			"gain": -4.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 11500,
+			"q": 4.0,
+			"gain": -8.0,
+			"color": 0
+		},
+		{
+			"type": 5,
+			"channels": 0,
+			"frequency": 14000,
+			"q": 0.699999988079071,
+			"gain": 6.0,
+			"color": 0
+		},
+		{
+			"type": 3,
+			"channels": 0,
+			"frequency": 50,
+			"q": 1.409999966621399,
+			"gain": -5.002617359161377,
+			"color": 0
+		},
+		{
+			"type": 4,
+			"channels": 0,
+			"frequency": 20,
+			"q": 0.704953670501709,
+			"gain": 8.01047134399414,
+			"color": -15649895
+		}
+	]
+}
+]
